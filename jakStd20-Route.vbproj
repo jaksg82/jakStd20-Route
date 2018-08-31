@@ -5,6 +5,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Copyright>Copyright © Simone Giacomoni 2018</Copyright>
     <OptionStrict>On</OptionStrict>
+    <Version>0.2.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
